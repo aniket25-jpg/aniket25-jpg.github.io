@@ -18,6 +18,8 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/TATA---forage-virtual-internship-project)
 
+---
+
 ## Machine Learning
 
 ### Porter Delivery Prediction – 
@@ -48,7 +50,9 @@
 - Applied **feature engineering** on categorical and numerical variables, including encoding and scaling.  
 - Evaluated model using **accuracy, precision, recall, and ROC-AUC** to balance predictive power with interpretability.  
 - Generated actionable insights for HR to **improve retention strategies** by focusing on recognition, career growth, and work-life balance.
-  
+
+---
+
 ## SQL
 
 ### SQL Analysis – PMFBY Government Scheme
@@ -64,6 +68,8 @@
 - Strengthened ability to combine **SQL querying with business reporting** for real-world decision-making.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/SQL-Project)
+
+---
   
 ## Python - EDA 
 
