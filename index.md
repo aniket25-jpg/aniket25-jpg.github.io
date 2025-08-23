@@ -1,5 +1,14 @@
 
 # Data science portfolio 
+
+---
+
+👨‍💻 I am a passionate Data Analyst skilled in Python 🐍, SQL 🗄️, Machine Learning 🤖, and AI.  
+With hands-on experience in transforming raw datasets into actionable insights  
+through data cleaning, visualization 📊, and predictive modeling, I bridge the gap between data and decisions.  
+I also explore Generative AI 🚀, blending traditional analytics with emerging technologies  
+to solve complex problems and drive smarter business strategies..
+
 ---
 ## Data visualisation
 
