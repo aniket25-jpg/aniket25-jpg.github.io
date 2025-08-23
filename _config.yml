@@ -3,16 +3,12 @@ logo: /assets/img/resume_photo.png   # Make sure file name has no spaces!
 
 description: 
   <p align="center">
-    <a href="/assets/Aniket_Saindankar_Data_analyst.pdf" target="_blank">
-      <button style="padding:8px 16px; background-color:#0073b1; color:white; border:none; border-radius:6px; cursor:pointer;">
-        📄 Download Resume
-      </button>
-    </a>
-    <br><br>
+    <a href="/portfolio/assets/Aniket_Saindankar_Data_analyst.pdf" target="_blank">📄 Resume</a>
+    <br>
     <a href="https://www.linkedin.com/in/aniket-saindankar-03a71b1a7/">🔗 LinkedIn</a> |
     <a href="https://github.com/aniket25-jpg"> 💻GitHub</a> |
     <a href="mailto:saindankaraniket@gmail.com"> 📧Email</a>
   </p>
 
-# Theme
+
 theme: jekyll-theme-minimal
