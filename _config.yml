@@ -1,9 +1,8 @@
 title: <p align="center">Aniket Saindankar</p>
-logo: /assets/img/resume_photo.png   # Make sure file name has no spaces!
+logo: /assets/img/resume_photo.png
 
 description: 
   <div style="text-align: center;">
-
     <!-- Links in one line -->
     <p>
       <a href="/assets/Aniket_Saindankar_Data_analyst.pdf" target="_blank">📄 Resume</a> |
@@ -12,7 +11,7 @@ description:
     </p>
 
     <!-- About description -->
-    <div style="max-width: 400px; margin: auto; text-align: center;">
+    <div style="max-width: 420px; margin: auto; text-align: center;">
       <p>
         I am a <b>Data Analyst</b> skilled in <b>Python</b>, <b>SQL</b>, <b>Machine Learning</b>, and <b>AI</b>, 
         with hands-on experience in data cleaning, visualization, and predictive modeling.
@@ -23,7 +22,6 @@ description:
         that support business decision-making.
       </p>
     </div>
-
   </div>
-# Theme
+
 theme: jekyll-theme-minimal
