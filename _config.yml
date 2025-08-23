@@ -1,21 +1,17 @@
 title: <p align="center">Aniket Saindankar</p>
-logo: /assets/img/resume photo.png
+logo: /assets/img/resume_photo.png   # Make sure file name has no spaces!
 
 description: 
   <p align="center">
-  <a href="Aniket Saindankar - Data analyst.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/aniket-saindankar-03a71b1a7/">LinkedIn</a> |
-  <a href="https://github.com/aniket25-jpg">GitHub</a>
-
-  <br>   
-I am a Data Analyst skilled in Python, SQL, Machine Learning, and AI,
-with hands-on experience in data cleaning, visualization, and predictive modeling.
-I also explore Generative AI applications, combining traditional analytics
-with emerging AI techniques to transform raw datasets into 
-meaningful insights that support business decision-making. 
-  <br>
+    <a href="/assets/resume/Aniket_Saindankar_Data_Analyst.pdf" target="_blank">
+      <button style="padding:8px 16px; background-color:#0073b1; color:white; border:none; border-radius:6px; cursor:pointer;">
+        📄 Download Resume
+      </button>
+    </a>
+    <br><br>
+    <a href="https://www.linkedin.com/in/aniket-saindankar-03a71b1a7/">LinkedIn</a> |
+    <a href="https://github.com/aniket25-jpg">GitHub</a>
   </p>
 
-
-
+# Theme
 theme: jekyll-theme-minimal
