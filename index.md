@@ -5,9 +5,8 @@
 
 ### TATA Virtual Internship (Forage) 
 
-<div style="text-align:center;">
-  <img src="assets/img/TATA image.png" style="max-width:80%; height:auto;" />
-</div>
+<img width="160" height="148" alt="TATA image" src="https://github.com/user-attachments/assets/fcddc0d4-245c-47d8-a437-1f07990635a9" />
+
 
 - Completed a data visualization & analytics simulation aligned with real TCS client projects.  
 - Cleaned and structured raw business datasets to ensure accuracy and consistency.  
