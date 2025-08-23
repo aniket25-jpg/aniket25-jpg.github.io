@@ -1,24 +1,17 @@
 title: <p align="center">Aniket Saindankar</p>
-logo: /assets/img/resume_photo.png
+logo: /assets/img/resume_photo.png   # Make sure file name has no spaces!
+
 description: 
-  <div style="text-align: center;">
-    <p>
-      <a href="/assets/Aniket_Saindankar_Data_analyst.pdf" target="_blank">📄 Resume</a> |
-      <a href="https://www.linkedin.com/in/aniket-saindankar-03a71b1a7/">LinkedIn</a> |
-      <a href="https://github.com/aniket25-jpg">GitHub</a>
-    </p>
+  <p align="center">
+    <a href="/assets/Aniket_Saindankar_Data_analyst.pdf" target="_blank">
+      <button style="padding:8px 16px; background-color:#0073b1; color:white; border:none; border-radius:6px; cursor:pointer;">
+        📄 Download Resume
+      </button>
+    </a>
+    <br><br>
+    <a href="https://www.linkedin.com/in/aniket-saindankar-03a71b1a7/">LinkedIn</a> |
+    <a href="https://github.com/aniket25-jpg">GitHub</a>
+  </p>
 
-    <div style="max-width: 420px; margin: auto; text-align: center;">
-      <p>
-        I am a <b>Data Analyst</b> skilled in <b>Python</b>, <b>SQL</b>, <b>Machine Learning</b>, and <b>AI</b>, 
-        with hands-on experience in data cleaning, visualization, and predictive modeling.
-      </p>
-      <p>
-        I also explore <b>Generative AI</b> applications, combining traditional analytics 
-        with emerging AI techniques to transform raw datasets into meaningful insights 
-        that support business decision-making.
-      </p>
-    </div>
-  </div>
-
+# Theme
 theme: jekyll-theme-minimal
