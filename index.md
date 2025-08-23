@@ -6,7 +6,7 @@
 ### TATA Virtual Internship (Forage) 
 
 <div style="text-align:center;">
-<img src="assets/img/TATA image.jpg" style="max-width:80%; height:auto;" />
+<img src="assets/img/TATA_image.jpg" style="max-width:80%; height:auto;" />
 </div>
 
 
