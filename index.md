@@ -3,7 +3,11 @@
 ---
 ## Data visualisation
 
-### TATA Virtual Internship (Forage)
+### TATA Virtual Internship (Forage) 
+
+<div style="text-align:center;">
+  <img src="assets/img/TATA image.png" style="max-width:80%; height:auto;" />
+</div>
 
 - Completed a data visualization & analytics simulation aligned with real TCS client projects.  
 - Cleaned and structured raw business datasets to ensure accuracy and consistency.  
@@ -17,6 +21,10 @@
 
 ### Porter Delivery Prediction – 
 
+<div style="text-align:center;">
+<img src="assets/img/images.jpg" style="max-width:80%; height:auto;" />
+</div>
+
 - Developed a regression-based predictive model to estimate **delivery times** using historical operational data.  
 - Performed **data preprocessing & cleaning** to handle missing values and outliers.  
 - Engineered features such as **distance, order volume, and time-of-day** to improve model performance.  
@@ -29,6 +37,10 @@
 
 ### Employee Retention Prediction – Logistic Regression
 
+<div style="text-align:center;">
+<img src="assets/img/Employee Retention.png" style="max-width:80%; height:auto;" />
+</div>
+
 - Built a **Logistic Regression model** to predict employee attrition (stay/leave) using demographic, job satisfaction, and performance data.  
 - Processed and cleaned a dataset of **74k+ employee records** with 24 features including income, tenure, education, and work-life balance.  
 - Performed **Exploratory Data Analysis (EDA)** to identify key retention factors like job role, promotions, recognition, and overtime.  
@@ -40,6 +52,10 @@
 
 ### SQL Analysis – PMFBY Government Scheme
 
+<div style="text-align:center;">
+<img src="assets/img/PMFBY.jpg" style="max-width:80%; height:auto;" />
+</div>
+
 - Queried and analyzed **50k+ insurance records** from the government’s crop insurance scheme using **SQL joins, aggregations, and filtering**.  
 - Identified trends in **claim disbursement by region, crop type, and beneficiary category** to evaluate scheme effectiveness.  
 - Designed **Excel dashboards** to visualize participation levels, premium collection, and claim settlement patterns.  
@@ -50,7 +66,11 @@
   
 ## Python - EDA 
 
-### Exploratory Data Analysis – Bangalore Housing
+### Exploratory Data Analysis – Bangalore Housing 
+
+<div style="text-align:center;">
+<img src="assets/img/Bangalore housing.jpg" style="max-width:80%; height:auto;" />
+</div>
 
 - Conducted **data cleaning and preprocessing** on 5k+ housing records (handling missing values, duplicates, and outliers).  
 - Explored relationships between **location, BHK, size, and price** to identify the most significant price-driving factors.  
