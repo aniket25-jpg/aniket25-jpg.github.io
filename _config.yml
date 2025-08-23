@@ -1,22 +1,19 @@
 title: <p align="center">Aniket Saindankar</p>
-logo: /assets/img/resume_photo.png   # Make sure file name has no spaces!
+logo: /assets/img/resume_photo.png
 
 description: |
   <div style="text-align: center;">
     <p>
-      <a href="/portfolio/assets/Aniket_Saindankar_Data_analyst.pdf" target="_blank" 
+      <a href="/assets/Aniket_Saindankar_Data_analyst.pdf" target="_blank"
          style="display:inline-block; padding:8px 16px; background-color:#0073b1; 
                 color:white; text-decoration:none; border-radius:6px; font-weight:bold;">
         📄 Download Resume
       </a>
     </p>
     <p>
-      <a href="https://www.linkedin.com/in/aniket-saindankar-03a71b1a7/" 
-         style="margin:0 8px;">🔗 LinkedIn</a> |
-      <a href="https://github.com/aniket25-jpg" 
-         style="margin:0 8px;">💻 GitHub</a> |
-      <a href="mailto:saindankaraniket@gmail.com" 
-         style="margin:0 8px;">📧 Email</a>
+      <a href="https://www.linkedin.com/in/aniket-saindankar-03a71b1a7/">🔗 LinkedIn</a> |
+      <a href="https://github.com/aniket25-jpg">💻 GitHub</a> |
+      <a href="mailto:saindankaraniket@gmail.com">📧 Email</a>
     </p>
   </div>
 
