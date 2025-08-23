@@ -5,7 +5,9 @@
 
 ### TATA Virtual Internship (Forage) 
 
-<img width="160" height="148" alt="TATA image" src="https://github.com/user-attachments/assets/fcddc0d4-245c-47d8-a437-1f07990635a9" />
+<div style="text-align:center;">
+<img src="assets/img/TATA image.jpg" style="max-width:80%; height:auto;" />
+</div>
 
 
 - Completed a data visualization & analytics simulation aligned with real TCS client projects.  
