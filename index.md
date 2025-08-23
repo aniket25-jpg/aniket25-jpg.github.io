@@ -1,123 +1,65 @@
+
+# Data science portfolio 
 ---
-layout: default
----
+## Data visualisation
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### TATA Virtual Internship (Forage)
 
-[Link to another page](./another-page.html).
+- Completed a data visualization & analytics simulation aligned with real TCS client projects.  
+- Cleaned and structured raw business datasets to ensure accuracy and consistency.  
+- Designed interactive visual dashboards to highlight key business trends and KPIs.  
+- Prepared client-ready insights to support **executive-level decision making**.  
+- Practiced framing **strategic business questions** for senior leadership discussions.  
 
-There should be whitespace between paragraphs.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/TATA---forage-virtual-internship-project)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Machine Learning
 
-# Header 1
+### Porter Delivery Prediction – 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- Developed a regression-based predictive model to estimate **delivery times** using historical operational data.  
+- Performed **data preprocessing & cleaning** to handle missing values and outliers.  
+- Engineered features such as **distance, order volume, and time-of-day** to improve model performance.  
+- Applied **scaling and log transformations** to address skewness and enhance accuracy.  
+- Evaluated model with **R², MAE, and RMSE**, achieving improved prediction reliability.  
+- Insights could help optimize **resource allocation and delivery scheduling** for logistics companies.
 
 
-### Definition lists can be used with HTML syntax.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/LR-Machine-learning-Project)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Employee Retention Prediction – Logistic Regression
+
+- Built a **Logistic Regression model** to predict employee attrition (stay/leave) using demographic, job satisfaction, and performance data.  
+- Processed and cleaned a dataset of **74k+ employee records** with 24 features including income, tenure, education, and work-life balance.  
+- Performed **Exploratory Data Analysis (EDA)** to identify key retention factors like job role, promotions, recognition, and overtime.  
+- Applied **feature engineering** on categorical and numerical variables, including encoding and scaling.  
+- Evaluated model using **accuracy, precision, recall, and ROC-AUC** to balance predictive power with interpretability.  
+- Generated actionable insights for HR to **improve retention strategies** by focusing on recognition, career growth, and work-life balance.
+  
+## SQL
+
+### SQL Analysis – PMFBY Government Scheme
+
+- Queried and analyzed **50k+ insurance records** from the government’s crop insurance scheme using **SQL joins, aggregations, and filtering**.  
+- Identified trends in **claim disbursement by region, crop type, and beneficiary category** to evaluate scheme effectiveness.  
+- Designed **Excel dashboards** to visualize participation levels, premium collection, and claim settlement patterns.  
+- Delivered insights that highlighted **regional disparities in payouts** and helped assess policy impact on farmers.  
+- Strengthened ability to combine **SQL querying with business reporting** for real-world decision-making.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/SQL-Project)
+  
+## Python - EDA 
+
+### Exploratory Data Analysis – Bangalore Housing
+
+- Conducted **data cleaning and preprocessing** on 5k+ housing records (handling missing values, duplicates, and outliers).  
+- Explored relationships between **location, BHK, size, and price** to identify the most significant price-driving factors.  
+- Applied **statistical analysis and feature transformations** to better understand market variability.  
+- Created visualizations using **Matplotlib and Seaborn** to highlight price trends across locations and property types.  
+- Derived insights that could support **real estate developers and buyers** in making data-driven pricing decisions.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/EDA-Python-Project)
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+🚀 “On a journey to grow as a Data Scientist while contributing impactful insights to organizations.
 ```
