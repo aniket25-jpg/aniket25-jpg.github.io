@@ -10,18 +10,5 @@ description:
       <a href="https://github.com/aniket25-jpg">GitHub</a>
     </p>
 
-    <!-- About description -->
-    <div style="max-width: 420px; margin: auto; text-align: center;">
-      <p>
-        I am a <b>Data Analyst</b> skilled in <b>Python</b>, <b>SQL</b>, <b>Machine Learning</b>, and <b>AI</b>, 
-        with hands-on experience in data cleaning, visualization, and predictive modeling.
-      </p>
-      <p>
-        I also explore <b>Generative AI</b> applications, combining traditional analytics 
-        with emerging AI techniques to transform raw datasets into meaningful insights 
-        that support business decision-making.
-      </p>
-    </div>
-  </div>
 
 theme: jekyll-theme-minimal
