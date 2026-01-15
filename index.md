@@ -10,6 +10,36 @@ I also explore Generative AI 🚀, blending traditional analytics with emerging 
 to solve complex problems and drive smarter business strategies..
 
 ---
+
+## Data visualisation (Power BI)
+
+### Namma Yatri Dashboard 
+
+<div style="text-align:center;">
+<img src="assets/img/TATA_image.png" style="max-width:80%; height:auto;" />
+</div>
+
+- This project presents an interactive Power BI dashboard designed to analyze operational and business performance of the Namma Yatri ride-hailing platform.
+- The dashboard provides deep insights into ride demand patterns, revenue distribution, zone performance, payment behavior, cancellations, and the complete booking conversion funnel.
+- The objective of this project is to enable data-driven decision making for improving operational efficiency, increasing conversion rates, optimizing driver allocation, and maximizing revenue.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]((https://github.com/aniket25-jpg/Namma-Yatri-Dashboard))
+
+---
+
+## Big Data (Apache spark)
+
+<div style="text-align:center;">
+<img src="assets/img/TATA_image.png" style="max-width:80%; height:auto;" />
+</div
+
+- In today’s highly competitive e-commerce environment, understanding customer behavior is critical for improving retention, personalization, and revenue growth. 
+- This project performs large-scale customer segmentation using Apache Spark (PySpark) by applying RFM (Recency, Frequency, Monetary) analysis on real-world e-commerce transaction data.
+- The project demonstrates how big data analytics can be used to drive data-driven marketing and business strategies.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/Apache-spark-Big-Data-)
+
+---
 ## Data visualisation
 
 ### TATA Virtual Internship (Forage) 
