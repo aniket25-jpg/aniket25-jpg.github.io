@@ -3,10 +3,10 @@
 
 ---
 
-👨‍💻 I am a passionate Data Analyst skilled in Python 🐍, SQL 🗄️, Machine Learning 🤖, and AI.  
+I am a passionate Data Analyst skilled in Python , SQL , Machine Learning , and AI.  
 With hands-on experience in transforming raw datasets into actionable insights  
-through data cleaning, visualization 📊, and predictive modeling, I bridge the gap between data and decisions.  
-I also explore Generative AI 🚀, blending traditional analytics with emerging technologies  
+through data cleaning, visualization , and predictive modeling, I bridge the gap between data and decisions.  
+I also explore Generative AI , blending traditional analytics with emerging technologies  
 to solve complex problems and drive smarter business strategies..
 
 ---
@@ -16,7 +16,7 @@ to solve complex problems and drive smarter business strategies..
 ### Namma Yatri Dashboard 
 
 <div style="text-align:center;">
-<img src="assets/img/TATA_image.png" style="max-width:80%; height:auto;" />
+<img src="assets/img/Namma_Yatri.png" style="max-width:80%; height:auto;" />
 </div>
 
 - This project presents an interactive Power BI dashboard designed to analyze operational and business performance of the Namma Yatri ride-hailing platform.
@@ -30,7 +30,7 @@ to solve complex problems and drive smarter business strategies..
 ## Big Data (Apache spark)
 
 <div style="text-align:center;">
-<img src="assets/img/TATA_image.png" style="max-width:80%; height:auto;" />
+<img src="assets/img/Customer_Retention.png" style="max-width:80%; height:auto;" />
 </div
 
 - In today’s highly competitive e-commerce environment, understanding customer behavior is critical for improving retention, personalization, and revenue growth. 
