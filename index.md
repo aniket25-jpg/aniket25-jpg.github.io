@@ -44,7 +44,7 @@ to solve complex problems and drive smarter business strategies..
 ## Data Visualization – TATA Virtual Internship (Forage)
 
 <p align="center">
-  <img src="./assets/img/Tata_Project.png" width="80%">
+  <img src="./assets/img/TATA_image.png" width="80%">
 </p>
 
 - Completed a data visualization and analytics simulation aligned with real TCS client projects.
