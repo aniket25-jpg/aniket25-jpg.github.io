@@ -13,50 +13,46 @@ to solve complex problems and drive smarter business strategies..
 
 ## Data visualisation (Power BI)
 
-### Namma Yatri Dashboard 
+## 🚖 Namma Yatri Dashboard
 
-<div style="text-align:center;">
-<img src="assets/img/Namma_Yatri.png" style="max-width:80%; height:auto;" />
-</div>
+<p align="center">
+  <img src="./assets/img/Namma_Yatri.png" width="80%">
+</p>
 
-- This project presents an interactive Power BI dashboard designed to analyze operational and business performance of the Namma Yatri ride-hailing platform.
-- The dashboard provides deep insights into ride demand patterns, revenue distribution, zone performance, payment behavior, cancellations, and the complete booking conversion funnel.
-- The objective of this project is to enable data-driven decision making for improving operational efficiency, increasing conversion rates, optimizing driver allocation, and maximizing revenue.
+- Developed an interactive Power BI dashboard to analyze operational and business performance of the Namma Yatri ride-hailing platform.
+- Provided insights into ride demand patterns, revenue distribution, zone performance, payment behavior, cancellations, and booking conversion funnel.
+- Enabled data-driven decision-making to improve operational efficiency, optimize driver allocation, and increase conversion rates.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]((https://github.com/aniket25-jpg/Namma-Yatri-Dashboard))
-
----
-
-## Big Data (Apache spark)
-
-<div style="text-align:center;">
-<img src="assets/img/Customer_Retention.png" style="max-width:80%; height:auto;" />
-</div
-
-- In today’s highly competitive e-commerce environment, understanding customer behavior is critical for improving retention, personalization, and revenue growth. 
-- This project performs large-scale customer segmentation using Apache Spark (PySpark) by applying RFM (Recency, Frequency, Monetary) analysis on real-world e-commerce transaction data.
-- The project demonstrates how big data analytics can be used to drive data-driven marketing and business strategies.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]((https://github.com/aniket25-jpg/Apache-spark-Big-Data-))
-
----
-
-## Data visualisation
-
-### TATA Virtual Internship (Forage) 
-
-<div style="text-align:center;">
-<img src="assets/img/TATA_image.png" style="max-width:80%; height:auto;" />
-</div>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/Namma-Yatri-Dashboard)
 
 
-- Completed a data visualization & analytics simulation aligned with real TCS client projects.  
-- Cleaned and structured raw business datasets to ensure accuracy and consistency.  
-- Designed interactive visual dashboards to highlight key business trends and KPIs.  
-- Prepared client-ready insights to support **executive-level decision making**.  
-- Practiced framing **strategic business questions** for senior leadership discussions.  
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/TATA---forage-virtual-internship-project)
+## 📊 Big Data (Apache Spark)
+
+<p align="center">
+  <img src="./assets/img/Customer_Retention.png" width="80%">
+</p>
+
+- Performed large-scale customer segmentation using Apache Spark (PySpark).
+- Applied RFM (Recency, Frequency, Monetary) analysis on real-world e-commerce transaction data.
+- Demonstrated how big data analytics can drive customer retention strategies and revenue growth.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/Apache-spark-Big-Data-)
+
+
+
+## 📈 Data Visualization – TATA Virtual Internship (Forage)
+
+<p align="center">
+  <img src="./assets/img/Tata_Project.png" width="80%">
+</p>
+
+- Completed a data visualization and analytics simulation aligned with real TCS client projects.
+- Cleaned and structured raw business datasets to ensure accuracy and consistency.
+- Designed interactive dashboards to highlight key business KPIs and trends.
+- Delivered client-ready insights and recommendations.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/Tata-Data-Visualization)
 
 ---
 
