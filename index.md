@@ -16,7 +16,7 @@ to solve complex problems and drive smarter business strategies..
 ## Namma Yatri Dashboard
 
 <div style="text-align:center;">
-<img src="assets/img/Namma_Yatri.jpg" style="max-width:80%; height:auto;" />
+<img src="assets/img/Namma_Yatri.png" style="max-width:80%; height:auto;" />
 </div>
 
 - Developed an interactive Power BI dashboard to analyze operational and business performance of the Namma Yatri ride-hailing platform.
@@ -30,7 +30,7 @@ to solve complex problems and drive smarter business strategies..
 ## Big Data (Apache Spark)
 
 <div style="text-align:center;">
-<img src="assets/img/Customer_Retention.jpg" style="max-width:80%; height:auto;" />
+<img src="assets/img/Customer_Retention.png" style="max-width:80%; height:auto;" />
 </div>
 
 - Performed large-scale customer segmentation using Apache Spark (PySpark).
@@ -44,7 +44,7 @@ to solve complex problems and drive smarter business strategies..
 ## Data Visualization – TATA Virtual Internship (Forage)
 
 <div style="text-align:center;">
-<img src="assets/img/TATA_image.jpg" style="max-width:80%; height:auto;" />
+<img src="assets/img/TATA_image.png" style="max-width:80%; height:auto;" />
 </div>
 
 - Completed a data visualization and analytics simulation aligned with real TCS client projects.
