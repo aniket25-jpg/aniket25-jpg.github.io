@@ -13,7 +13,7 @@ to solve complex problems and drive smarter business strategies..
 
 ## Data visualisation (Power BI)
 
-## 🚖 Namma Yatri Dashboard
+## Namma Yatri Dashboard
 
 <p align="center">
   <img src="./assets/img/Namma_Yatri.png" width="80%">
@@ -27,7 +27,7 @@ to solve complex problems and drive smarter business strategies..
 
 ---
 
-## 📊 Big Data (Apache Spark)
+## Big Data (Apache Spark)
 
 <p align="center">
   <img src="./assets/img/Customer_Retention.png" width="80%">
