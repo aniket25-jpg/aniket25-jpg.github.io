@@ -25,7 +25,7 @@ to solve complex problems and drive smarter business strategies..
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/Namma-Yatri-Dashboard)
 
-
+---
 
 ## 📊 Big Data (Apache Spark)
 
@@ -39,7 +39,7 @@ to solve complex problems and drive smarter business strategies..
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/Apache-spark-Big-Data-)
 
-
+---
 
 ## 📈 Data Visualization – TATA Virtual Internship (Forage)
 
