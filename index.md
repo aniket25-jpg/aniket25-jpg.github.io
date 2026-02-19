@@ -37,9 +37,10 @@ to solve complex problems and drive smarter business strategies..
 - This project performs large-scale customer segmentation using Apache Spark (PySpark) by applying RFM (Recency, Frequency, Monetary) analysis on real-world e-commerce transaction data.
 - The project demonstrates how big data analytics can be used to drive data-driven marketing and business strategies.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aniket25-jpg/Apache-spark-Big-Data-)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]((https://github.com/aniket25-jpg/Apache-spark-Big-Data-))
 
 ---
+
 ## Data visualisation
 
 ### TATA Virtual Internship (Forage) 
