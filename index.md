@@ -41,7 +41,7 @@ to solve complex problems and drive smarter business strategies..
 
 ---
 
-## 📈 Data Visualization – TATA Virtual Internship (Forage)
+## Data Visualization – TATA Virtual Internship (Forage)
 
 <p align="center">
   <img src="./assets/img/Tata_Project.png" width="80%">
